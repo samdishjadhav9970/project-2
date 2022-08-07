@@ -22,7 +22,7 @@ body {
 /* ------------------------------ */
 section .navbar {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
   height: 20vh;
 }
